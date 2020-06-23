@@ -1,0 +1,2 @@
+C:\GIT\math-c\Debug\Project1.exe
+C:\GIT\math-c\Debug\Project1.pdb
